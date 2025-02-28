@@ -10,7 +10,12 @@
 
 The website will consist of
 1.main index page ( which will have links to a few recipes)
-2.just to build your HTML chops
+2.just to build your HTML chops.
+
+Take note of :
+1.Image basics 
+2.Git workflow
+3.
 
 
   
