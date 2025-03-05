@@ -8,3 +8,8 @@
 .subheading{
     text-align: center;
 }
+
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
