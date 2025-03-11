@@ -13,3 +13,8 @@
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
 }
+
+li {
+    border: 2px solid blue;
+    padding: 0.2em;
+}
